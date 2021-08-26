@@ -1,7 +1,7 @@
 ### **Hi there!**
 ![Screenshot](bannergit.png)
 
-Creative human with many energy capable to achieve and deliver, my channels to fill my spirit are Software Development & Entrepreneurship. The focus is always the same: Build excellents products and experiences looking for adding value, impact and of course have fun.
+Full Stack Developer with creative skills capable of delivering high results and achieving timely deadlines. My channels to fill my spirit are Software Development & Entrepreneurship. The focus is always the same: Build excellents products and experiences looking for adding value, impact and of course have fun.
 
 I am a musician ( guitar player ), entrepreneur, full stack developer (in construction). My passion is to create valuable things for the community, that's the why of my learning.
 
