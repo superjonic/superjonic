@@ -1,4 +1,4 @@
-### **Hi there!**
+# **Hi there!**
 ![Screenshot](bannergit.png)
 
 Full Stack Developer with creative skills capable of delivering high results and achieving timely deadlines. The ways to find meaning in my work-life balance are Software Development & Entrepreneurship. The main goal is always the same: To build excellent products and user experiences seeking to add value, impact and of course have fun.
