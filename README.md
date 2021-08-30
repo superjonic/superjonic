@@ -13,7 +13,7 @@ Superjonic (superjonico in spanish): it's a concept created by me, it's about co
       <td>  <img src ="./icons/redux.png" width = "100" heigth = "100"> </td>
       <td>  <img src ="./icons/node.png" width = "100" heigth = "100"> </td>
       <td>  <img src ="./icons/express.png" width = "100" heigth = "100"> </td>
-      <td>  <img src ="./icons/mongodb.png" width = "100" heigth = "100"> </td>
+      <td>  <img src ="./icons/mongodb1.png" width = "100" heigth = "100"> </td>
       <td>  <img src ="./icons/css.png" width = "100" heigth = "100"> </td>
       <td>  <img src ="./icons/html5.png" width = "100" heigth = "100"> </td>
     </tr>
