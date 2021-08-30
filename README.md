@@ -7,9 +7,10 @@ I am a musician ( guitar player ), entrepreneur, full stack developer (in constr
 
 Superjonic (superjonico in spanish): it's a concept created by me, it's about compose music overlaping differents ionan scales, the tones and sounds as a result are very interesting.
 
-
-<img src ="./icons/react.png" width = "100" heigth = "100">
-<img src ="./icons/redux.png" width = "100" heigth = "100">
-<img src ="./icons/node.png" width = "100" heigth = "100">
-<img src ="./icons/express.png" width = "100" heigth = "100">
-<img src ="./icons/mongodb.png" width = "100" heigth = "100">
+<footer> 
+    <img src ="./icons/react.png" width = "100" heigth = "100">
+    <img src ="./icons/redux.png" width = "100" heigth = "100">
+    <img src ="./icons/node.png" width = "100" heigth = "100">
+    <img src ="./icons/express.png" width = "100" heigth = "100">
+    <img src ="./icons/mongodb.png" width = "100" heigth = "100">
+</footer>
