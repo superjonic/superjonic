@@ -7,6 +7,21 @@ I am a musician ( guitar player ), entrepreneur, full stack developer (in constr
 
 Superjonic (superjonico in spanish): it's a concept created by me, it's about compose music overlaping differents ionan scales, the tones and sounds as a result are very interesting.
 
+#STACK#
+-Javascript
+-React
+-React Native
+-CSS
+-Material UI 
+-Redux
+-Node
+-Express
+-Sequelize
+-PostgreSQL
+-HTML5
+
+
+
 <table>
     <tr>
       <td>  <img src ="./icons/react.png" width = "100" heigth = "100" > </td>
